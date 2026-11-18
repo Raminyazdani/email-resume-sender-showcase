@@ -1,0 +1,9 @@
+{
+  "applicant": "Alex Example",
+  "from_email": "alex@example.org",
+  "contact": "Casey Example",
+  "to_email": "casey@example.org",
+  "role": "Map Index Assistant",
+  "organization": "Lantern Map Studio",
+  "work_sample": "For my practice map, I built a street index that a reader can check against twelve hand-drawn grid squares."
+}

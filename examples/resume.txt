@@ -1,0 +1,10 @@
+Alex Example
+Fictional résumé for the Map Index Assistant demo
+
+Practice project — Lantern Lane
+Drew a twelve-square map of an imaginary village.
+Assigned grid references to eight street names and checked each
+reference by tracing a route from the square to the street label.
+
+Skills practiced
+Map indexing, alphabetical filing, and legibility checks.
